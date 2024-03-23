@@ -50,3 +50,9 @@ https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
 ![image](https://github.com/toarnabtrainer/USA_BA_274/assets/111301975/531fb204-e465-49c4-b252-3f150874aee6)
 
 <hr>
+
+## Sample Template for User Stories:
+
+![image](https://github.com/toarnabtrainer/USA_BA/assets/111301975/c01fae83-eab4-4353-860e-84159f8a82ca)
+
+<hr>
